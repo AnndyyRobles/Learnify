@@ -1,5 +1,5 @@
 # Learnify - Plataforma de Cursos Online
-![learnify](Clipboard01-removebg-preview.png)
+![learnify](Clipboard01-removebg-preview (3).png)
 ## Estructura de la Aplicación
 
 ### 1. Vista (Home)
