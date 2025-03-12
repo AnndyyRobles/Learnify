@@ -1,5 +1,5 @@
 
-![learnify](newLearnify.webp)
+![learnify](learnifylogo.jpg)
 # Plataforma de Cursos Online
 ## Estructura de la Aplicación
 
